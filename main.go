@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	. "test/hello"
+	"gotutorial/hello"
 )
 
 func main() {
-	fmt.Println(hello.hello())
+	fmt.Println(hello.Helloworld())
 }

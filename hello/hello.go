@@ -1,5 +1,6 @@
 package hello
 
-func hello() string {
+// Helloworld is ..
+func Helloworld() string {
 	return "Hello!"
 }
