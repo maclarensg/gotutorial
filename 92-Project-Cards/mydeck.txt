@@ -1,1 +1,0 @@
-K:Spades,3:Clubs,Q:Hearts,4:Clubs,5:Spades,6:Diamonds,Q:Clubs,7:Diamonds,7:Clubs,10:Clubs,9:Diamonds,8:Spades,6:Clubs,7:Spades,Q:Diamonds,10:Diamonds,6:Spades,A:Spades,5:Hearts,J:Diamonds,3:Hearts,J:Clubs,9:Clubs,4:Spades,5:Clubs,7:Hearts,2:Hearts,8:Clubs,J:Spades,A:Diamonds,4:Hearts,6:Hearts,8:Diamonds,Q:Spades,4:Diamonds,2:Spades
