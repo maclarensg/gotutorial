@@ -1,4 +1,4 @@
-module urlshort
+module github.com/maclarensg/gotutorial/common/urlshort
 
 go 1.14
 
